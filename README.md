@@ -33,7 +33,7 @@ In this project, I was provided with excel spreadsheets containing raw data to p
 
 ## Description of Repository Organization
 
-### Jupyter File Created to Transform Data
+### Jupyter Notebook Created to Transform Data
 * [ETL Mini Project Crystal Butler-Jupyter Notebook](https://github.com/cmbutler83/Crowdfunding_ETL/blob/main/ETL_Mini_Project_Crystal_Butler.ipynb)
 
 
