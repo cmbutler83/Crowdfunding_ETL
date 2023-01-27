@@ -33,6 +33,7 @@ In this project, I was provided with excel spreadsheets containing raw data to p
 
 ## Description of Repository Organization
 
+### Jupyter File Created to Transform Data
 * [ETL Mini Project Crystal Butler-Jupyter Notebook](https://github.com/cmbutler83/Crowdfunding_ETL/blob/main/ETL_Mini_Project_Crystal_Butler.ipynb)
 
 
@@ -42,7 +43,7 @@ In this project, I was provided with excel spreadsheets containing raw data to p
 * [Contacts.csv](https://github.com/cmbutler83/Crowdfunding_ETL/blob/main/Resources/contacts.csv)
 * [Subcategory.csv](https://github.com/cmbutler83/Crowdfunding_ETL/blob/main/Resources/subcategory.csv)
 
-## Link to Lucidchart ERD
+### Link to Lucidchart ERD
 
 * [Crowdfunding Database ERD](https://lucid.app/documents/view/794f6551-8a28-4fa3-bcdf-648861645514)
 * [Crowdfunding Database ERD.png](https://github.com/cmbutler83/Crowdfunding_ETL/blob/main/Resources/Crowdfunding%20Database%20ERD.png)
